@@ -1,16 +1,41 @@
-### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=mahenriquess" alt="mahenriquess" />
 
-<!--
-**mahenriquess/mahenriquess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Marcelo
 
-Here are some ideas to get you started:
+### I'm a student of Analysis and Development of Sistems at IFSP - Guarulhos looking for start my career with software development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>📃 Resume</summary>
+
+## Education
+
+- 📖 **Analysis and Development of Sistems**\
+📆 2017 - 2022\
+📍 **Intituto Federal de Educação, Ciência e Tecnologia de São Paulo** - Guarulhos, Brazil
+
+## Experience
+
+- 👨‍💻 **Technical Support Assistant**\
+📆 2017 - 2020\
+📍 **Metalurgica Golin S/A** - Guarulhos/SP, Brazil
+
+<img align="left" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img align="left" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="left" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+<br><br><br>
+</details>
+
+#
+![Status](https://github-readme-stats.vercel.app/api?username=mahenriquess) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mahenriquess&layout=compact)](https://github.com/mahenriquess)
+
+### Follow me on my social media:
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin/in/mahenriquess)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=link_do_seu_perfil)](https://facebook.com/mahenriquess) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=mahenriquess)](https://instagram.com/mahenriquess)
