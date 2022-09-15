@@ -2,7 +2,7 @@
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Marcelo Henrique
 
-### I'm a student of Analysis and Development of Sistems at IFSP - Guarulhos looking for start my career with software development. 
+### Student of Data Science at UNIVESP and Software Developer since 2021, I'm always looking for new challenges and problems to be solved.
 
 <details>
   <summary>📃 Resume</summary>
@@ -19,11 +19,11 @@
 
 ## Experience
 
-- 👨‍💻 **TOTVS Developer - active**\
-📆 2022
+- 👨‍💻 **TOTVS Developer JR - active**\
+📆 2022\
 📍 **Grupo Comm S/A** - São Paulo/SP, Brazil
 
-- 👨‍💻 **Full-stack Developer**\
+- 👨‍💻 **Full-stack Developer JR**\
 📆 2021 - 2022\
 📍 **Onbest Tecnologia** - Arujá/SP, Brazil
 
