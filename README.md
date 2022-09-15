@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=mahenriquess" alt="mahenriquess" />
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Marcelo
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Marcelo Henrique
 
 ### I'm a student of Analysis and Development of Sistems at IFSP - Guarulhos looking for start my career with software development. 
 
@@ -9,11 +9,30 @@
 
 ## Education
 
+- 📖 **Data Science**\
+📆 2022 - estimated to conclude in 2025\
+📍 **Universidade Virtual de São Paulo - UNIVESP** - Remote, Brazil
+
 - 📖 **Analysis and Development of Sistems**\
-📆 2017 - 2022\
+📆 2017 - 2021\
 📍 **Intituto Federal de Educação, Ciência e Tecnologia de São Paulo** - Guarulhos, Brazil
 
 ## Experience
+
+- 👨‍💻 **TOTVS Developer - active**\
+📆 2022
+📍 **Grupo Comm S/A** - São Paulo/SP, Brazil
+
+- 👨‍💻 **Full-stack Developer**\
+📆 2021 - 2022\
+📍 **Onbest Tecnologia** - Arujá/SP, Brazil
+
+<img align="left" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="left" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+<img align="left" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 
 - 👨‍💻 **Technical Support Assistant**\
 📆 2017 - 2020\
