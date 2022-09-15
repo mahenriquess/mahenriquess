@@ -34,6 +34,8 @@
 <img align="left" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <img align="left" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 
+<br>
+  
 - 👨‍💻 **Technical Support Assistant**\
 📆 2017 - 2020\
 📍 **Metalurgica Golin S/A** - Guarulhos/SP, Brazil
